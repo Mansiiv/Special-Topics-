@@ -26,7 +26,7 @@ This project demonstrates the advanced capabilities of the Gemini model in handl
 ## Medium Article
 
 - **Read the Article**: The comprehensive Medium article detailing the findings and processes of this project can be found here:
-  [Read the Medium Article](https://medium.com/@yourusername/long-context-capabilities-of-gemini-abcdef123456)
+  [Read the Medium Article](https://medium.com/@mansivekaria09/exploring-the-frontiers-of-ai-10-novel-use-cases-of-long-context-handling-in-gemini-ab2cbaa07422)
 
 ## Demo Video
 

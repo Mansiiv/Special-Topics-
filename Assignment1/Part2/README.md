@@ -45,8 +45,12 @@ This project demonstrates how to leverage the Claude 3.5 Sonnet extension to bui
 ## Final Output
 
 - **Demo Video**: A detailed video showcasing the setup, process, and final outcome of your project. Host this on a platform like YouTube or Vimeo.
+  
+  [Demo video]()
+  
 - **Source Code**: Provide access to the source code via GitHub:
-  [View Source Code on GitHub](https://github.com/yourusername/yourproject)
+  
+  [View Source Code on GitHub Zip file](Assignment1/Part2/expense-splitter.zip)
 
 ## Contributing
 

@@ -48,7 +48,7 @@ EchoHive.
 
 - **Demo Video**: A detailed video showcasing the setup, process, and final outcome of your project. Host this on a platform like YouTube or Vimeo.
   
-  [Demo video]()
+  [Demo video](https://youtu.be/NTFCuHrjt74)
   
 - **Source Code**: Provide access to the source code via GitHub:
   

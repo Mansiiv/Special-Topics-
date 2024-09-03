@@ -36,6 +36,7 @@ This project utilizes Gemini's largest experimental model to summarize lengthy v
 ## Artifacts
 
 - **Transcript**:
+  
   [Youtube Video to text Transcript](https://drive.google.com/file/d/1D_daOY7cRidMKLCWddNmaWbL4ClDqZZN/view?usp=sharing)
 
   [Gemini Chat](https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221_p8JtQeEEUa2PRcXJuZOlBYhpfo1QPvD%22%5D,%22action%22:%22open%22,%22userId%22:%22114674042984997107697%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing)
@@ -44,6 +45,7 @@ This project utilizes Gemini's largest experimental model to summarize lengthy v
 
 [Demo Video Link]()
 - **Medium Article**: The final published article on Medium.
+  
   [Article Link](https://medium.com/@mansivekaria09/coding-with-a-co-pilot-preparing-for-the-ai-revolution-in-software-development-6ca82db22db7)
 
 ## Technologies Used

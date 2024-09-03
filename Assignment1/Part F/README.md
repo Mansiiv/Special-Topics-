@@ -14,7 +14,7 @@ This project demonstrates the powerful coding enhancements enabled by Claude-dev
 ## Artifacts
 
 - **Video Demonstration**: A comprehensive video that walks through each use case, showing the Claude-dev extensions in action.
-  - [Watch the Demo Video](https://youtu.be/link_to_demo_video)
+  - [Watch the Demo Video](https://youtu.be/3mRsSWj0A1w)
 - **Code Repository**: All code generated during the demonstrations is available in our GitHub repository.
   - [View Code on GitHub Zip File]
 

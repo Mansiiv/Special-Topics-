@@ -2,8 +2,10 @@
 
 ## Project Overview
 
-This project demonstrates how to leverage the Claude 3.5 Sonnet extension to build an end-to-end application, which could be a webapp, mobile app, or another complex system. The application is designed to showcase advanced capabilities of Claude 3.5 Sonnet in handling real-world tasks, following inspiration from cutting-edge technology demonstrations available on channels like EchoHive.
+This project demonstrates how to leverage the Claude 3.5 Sonnet extension to build an end-to-end application, which could be a webapp, mobile app, or another complex system. The application is designed to showcase advanced capabilities of Claude 3.5 Sonnet in handling real-world tasks, following inspiration from cutting-edge technology demonstrations available on channels like 
+EchoHive.
 
+<img width="1051" alt="Screenshot 2024-09-02 at 9 57 02 PM" src="https://github.com/user-attachments/assets/36c387de-b971-4231-9f58-206760770ab5">
 ## Objectives
 
 - **Install Claude 3.5 Sonnet Extension**: Set up the latest version of the Claude dev extension in your development environment.

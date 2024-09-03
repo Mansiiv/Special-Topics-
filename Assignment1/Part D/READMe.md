@@ -20,7 +20,7 @@ This project demonstrates the advanced capabilities of the Gemini model in handl
 
 ## Using the Colab Notebook
 
-- **Access the Notebook**: [View and Run the Notebook]([https://colab.research.google.com/drive/path_to_colab_notebook](https://colab.research.google.com/drive/1LaKRzrWhqt7CUhHqnIUPcPi341EZbwf6?usp=sharing))
+- **Access the Notebook**: [View and Run the Notebook](https://colab.research.google.com/drive/1LaKRzrWhqt7CUhHqnIUPcPi341EZbwf6?usp=sharing)
 
 
 ## Medium Article

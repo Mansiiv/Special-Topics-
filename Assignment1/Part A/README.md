@@ -32,6 +32,7 @@ This project utilizes Gemini's largest experimental model to summarize lengthy v
 
 5. **Slideshow Preparation**:
    - Create a LaTeX presentation that outlines the summarized content in a visually appealing manner for academic or professional audiences.
+  
 
 ## Artifacts
 
@@ -48,6 +49,9 @@ This project utilizes Gemini's largest experimental model to summarize lengthy v
   
   [Article Link](https://medium.com/@mansivekaria09/coding-with-a-co-pilot-preparing-for-the-ai-revolution-in-software-development-6ca82db22db7)
 
+- **Latex Presentation**
+
+[Link to Latex slides](https://www.overleaf.com/read/zdhqwvyzxrkc#a918a0)
 ## Technologies Used
 
 - **Gemini's Largest Experimental Model**

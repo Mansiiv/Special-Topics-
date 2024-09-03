@@ -19,7 +19,7 @@ This project explores the advanced multimodal capabilities of AI models such as 
 ## Demo Video
 
 - **Watch the Demo**: A comprehensive video demonstration is provided to show the AI models in action within the Colab environment.
-  [Watch the Demo Video](https://youtu.be/link_to_demo_video)
+  [Watch the Demo Video](https://youtu.be/auhF5KhcN_c)
 
 ## Contributing
 

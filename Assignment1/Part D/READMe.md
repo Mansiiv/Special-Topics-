@@ -31,7 +31,7 @@ This project demonstrates the advanced capabilities of the Gemini model in handl
 ## Demo Video
 
 - **Watch the Demo**: A video demonstration is provided to visually showcase the use of Gemini in handling long contexts.
-  [Watch the Demo Video](https://youtu.be/link_to_demo_video)
+  [Watch the Demo Video](https://youtu.be/qqxvVCwMITo)
 
 ## Contributing
 

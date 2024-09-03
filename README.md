@@ -1,2 +1,3 @@
-# Special-Topics-
-AI Tech Demo videos + Code + Transcripts
+# FA24: CMPE-297 Sec 49 - Special Topics
+
+

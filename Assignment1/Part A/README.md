@@ -44,7 +44,7 @@ This project utilizes Gemini's largest experimental model to summarize lengthy v
 
 - **Demo Video**: A demonstration video showcasing the summarization process, key takeaway extraction, and article generation.
 
-[Demo Video Link]()
+[Demo Video Link](https://youtu.be/o4VtyAhLALU)
 - **Medium Article**: The final published article on Medium.
   
   [Article Link](https://medium.com/@mansivekaria09/coding-with-a-co-pilot-preparing-for-the-ai-revolution-in-software-development-6ca82db22db7)

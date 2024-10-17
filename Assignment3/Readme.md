@@ -23,12 +23,17 @@ The demonstrations showcase:
 - Step-by-step walkthrough on how to fine-tune each model using input data formats.
 - Video links explain these models in a coding, chat, and conversational context.
 
+  [video-demo](https://youtu.be/coJXo-Q0nso)
+
 [Reference: Unsloth Fine-Tuning with Ollama](https://sarinsuriyakoon.medium.com/unsloth-lora-with-ollama-lightweight-solution-to-full-cycle-llm-development-edadb6d9e0f0)
 
 ### b) Continued Pretraining Use Case
 This section demonstrates how to use Unsloth AI to make an LLM learn a new language. We use the [Unsloth documentation on continued pretraining](https://docs.unsloth.ai/basics/continued-pretraining).
 
 The model is pretrained to enhance its multilingual capabilities, showing how the training loop works with new datasets and language-specific data.
+
+  [video-demo](https://youtu.be/T3bBn3cpsDE)
+
 
 ### c) Chat Templates for Multiple Use Cases
 In this section, we demonstrate chat templates for:
@@ -39,6 +44,9 @@ In this section, we demonstrate chat templates for:
 
 Each video showcases how to apply these templates for specific NLP tasks using various fine-tuning methods.
 
+ [video-demo](https://youtu.be/X69IhbRKxs0)
+
+
 ### d) Reward Modeling with ORPO and DPO
 Here, we fine-tune models using both:
 - **ORPO (Optimized Reward Policy Optimization)**, and
@@ -46,10 +54,14 @@ Here, we fine-tune models using both:
 
 [Reference: Unsloth Reward Modeling Documentation](https://docs.unsloth.ai/basics/reward-modelling-dpo-and-orpo)
 
-The videos explain how to optimize the model’s performance by rewarding preferred behaviors and punishing undesired actions.
+The video explain how to optimize the model’s performance by rewarding preferred behaviors and punishing undesired actions.
+
+ [video-demo](https://youtu.be/ZQZvWLfPa0Q)
 
 ### e) Continued Fine-Tuning from a Custom Checkpoint
 This video demonstrates how to resume fine-tuning from a custom model checkpoint, improving the model's performance for a specific use case by starting from previously learned parameters.
+
+ [video-demo](https://youtu.be/T3bBn3cpsDE)
 
 ### f) Mental Health Chatbot Development (Fine-tuning Phi-3)
 In this section, we use **Microsoft Phi-3** with Unsloth to fine-tune a model for mental health chatbot development. 
@@ -58,6 +70,8 @@ In this section, we use **Microsoft Phi-3** with Unsloth to fine-tune a model fo
 
 The chatbot is designed to assist users with mental health inquiries by generating empathetic responses based on user input.
 
+ [video-demo](https://youtu.be/vXPHEb35r1c)
+
 ### g) Exporting Fine-Tuned Models to Ollama
 In the final section, we use Unsloth to fine-tune a model (e.g., **Llama 3**) and export it to Ollama for inference. The demonstration covers:
 - Steps to fine-tune the model.
@@ -65,6 +79,8 @@ In the final section, we use Unsloth to fine-tune a model (e.g., **Llama 3**) an
 - Running inference on the exported model.
 
 [Reference: Exporting Fine-tuned Models to Ollama](https://docs.unsloth.ai/tutorials/how-to-finetune-llama-3-and-export-to-ollama)
+
+ [video-demo](https://youtu.be/jN0q2CuPZ-s)
 
 
 

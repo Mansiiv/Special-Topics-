@@ -10,7 +10,7 @@ This assignment involves building three apps using the n8n platform (free quota)
   - Handles user queries via a chat .
   - Uses an AI agent for responses.
   - Escalates unresolved queries to human agents.
-- [Video Demo ]()
+- [Video Demo ](https://youtu.be/3l6XOI1wArY)
 
 ### b) Backend Triggered App
 - An app triggered by backend events like Kafka or emails.

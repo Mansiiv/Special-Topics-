@@ -17,7 +17,7 @@ This assignment involves building three apps using the n8n platform (free quota)
 - Features:
   - Automates workflows for event-based triggers.
   - Sends backend-triggered emails.
-- [Video Demo ]()
+- [Video Demo ](https://youtu.be/aibphmupukU)
   
 ### c) Human-in-the-Loop App
 - An app that involves human intervention when AI fails.

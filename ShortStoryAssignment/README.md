@@ -16,7 +16,7 @@ This repository contains my individual assignment on summarizing and analyzing r
 - Avoids math depth, focusing instead on practical insights and visual explanations.
 - Published on [Medium](https://medium.com/@mansivekaria09/towards-next-generation-llm-based-recommender-systems-a6d3f63da7ed).
 
-[**Link to Medium Article**]([#](https://medium.com/@mansivekaria09/towards-next-generation-llm-based-recommender-systems-a6d3f63da7ed)) 
+[**Link to Medium Article**](https://medium.com/@mansivekaria09/towards-next-generation-llm-based-recommender-systems-a6d3f63da7ed)
 
 ---
 
@@ -28,7 +28,7 @@ This repository contains my individual assignment on summarizing and analyzing r
   - Highlights of the article in a structured format.
 - Published on [Slideshare](https://www.slideshare.net).
 
-[**Link to Slideshare Deck**](#) 
+[**Link to Slideshare Deck**](https://www.slideshare.net/slideshow/title-towards-next-generation-llm-based-recommender-systems-subtitle-a-comprehensive-survey-on-taxonomy-techniques-and-industrial-applications-pptx/273853497) 
 
 ---
 
@@ -39,6 +39,6 @@ This repository contains my individual assignment on summarizing and analyzing r
   - Insights shared in the Medium article.
 - Recorded and uploaded to this repository.
 
-[**Link to Video**](#) 
+[**Link to Video**](https://youtu.be/EqqeOUiYvc0) 
 
 

@@ -16,7 +16,7 @@ This repository contains my individual assignment on summarizing and analyzing r
 - Avoids math depth, focusing instead on practical insights and visual explanations.
 - Published on [Medium](https://medium.com).
 
-[**Link to Medium Article**](#) 
+[**Link to Medium Article**]([#](https://medium.com/@mansivekaria09/towards-next-generation-llm-based-recommender-systems-a6d3f63da7ed)) 
 
 ---
 

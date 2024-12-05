@@ -15,6 +15,8 @@ This project showcases how to design, implement, and operationalize a Generative
 - **End-to-End Automation**: Integrate tools like CI/CD pipelines for seamless deployments.
 
 ---
+## **Video Demo**
+[Click here](#) to watch the video walkthrough of the application. The video covers:
 
 ## **Application Flow**
 1. **Data Preprocessing**:
@@ -107,11 +109,6 @@ The application simulates a personalized assistant for e-commerce:
 
 ---
 
-## **Video Demo**
-[Click here](#) to watch the video walkthrough of the application. The video covers:
-1. Application architecture.
-2. Training and deployment process.
-3. Real-time use case demonstration.
-4. Observability and optimization techniques.
+
 
 

@@ -117,8 +117,8 @@ All Colab notebooks are available in this repository under the `notebooks/` dire
 - `tabular_inference_zero_shot.ipynb`
 - `rdl_gnn_tabular_prediction.ipynb`
 
-### 2. **Video Presentation**
-A video explaining the code, outputs, and insights from the notebooks is available in the `video_presentation/` directory.
+### 2. [**Video Presentation Link **](https://youtu.be/PWbj7NsKJZ0)
+A video explaining the code, outputs, and insights from the notebooks is available. click the link above.
 
 
 

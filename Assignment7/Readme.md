@@ -59,7 +59,7 @@ Replicating the **"Textbooks are All You Need"** case study using a smaller data
 
 1. **NanoGPT Colab Notebook**: A modular, well-documented Colab implementation.
 2. **NanoGPT Medium Article**: Detailed explanation of the code, challenges, and solutions.
-   [Medium article Link]()
+   [Medium article Link](https://medium.com/@mansivekaria09/building-nanogpt-from-scratch-and-exploring-textbooks-are-all-you-need-ebbc36366cca)
 3. **NanoGPT Presentation**: 10-minute walkthrough presentation in Google Slides format.
 4. **Case Study Colab Notebook**: Full implementation of "Textbooks are All You Need" case study with custom data.
 5. **Case Study Outputs**: Trained model results and evaluation metrics.

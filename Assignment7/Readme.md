@@ -64,7 +64,7 @@ Replicating the **"Textbooks are All You Need"** case study using a smaller data
 4. **Case Study Colab Notebook**: Full implementation of "Textbooks are All You Need" case study with custom data.
 5. **Case Study Outputs**: Trained model results and evaluation metrics.
 6. **Presentations**: Short presentations (10 minutes each) for both parts of the assignment.
-    [Presentation Link]()
+    [Presentation Link]( https://youtu.be/1cgKAdQT-fc )
 
 ---
 

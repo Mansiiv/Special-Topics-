@@ -6,6 +6,8 @@ This repository provides a comprehensive guide to various **Prompt Engineering T
 
 ## Contents
 
+[**Video Presenatation**](https://youtu.be/t6TIMo9JnHg)
+
 ### a) Illustrating Prompt Engineering Techniques
 A detailed Colab notebook demonstrating the following techniques:
 

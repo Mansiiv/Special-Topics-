@@ -74,7 +74,7 @@ blog-generation-app/
 
 ## Video Demo
 Check out the end-to-end application demo:
-[![Watch the Video](https://youtu.be/1IRNg0rJQOE)
+[Watch the Video](https://youtu.be/1IRNg0rJQOE)
 
 ## References
 - [An End-to-End Framework for Production-Ready LLM Systems](https://www.comet.com/site/blog/an-end-to-end-framework-for-production-ready-llm-systems-by-building-your-llm-twin/)
